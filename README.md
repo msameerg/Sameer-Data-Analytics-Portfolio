@@ -1,4 +1,4 @@
-# Shaykh – Data Analytics Portfolio
+# Sameer's – Data Analytics Portfolio
 
 Welcome to my Data Analytics and Data Science portfolio.
 
